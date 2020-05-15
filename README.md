@@ -151,7 +151,7 @@ EOF  all  create  destroy  help  quit  show  update
 ```
 
 ## Bugs
-No known bugs at this time. 
+No known bugs at this time.
 
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
@@ -160,8 +160,9 @@ Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
 ## Contirubtors V4
-Alexa Orrico - [Github](https://github.com/kevapostol) / [Twitter](https://twitter.com/apostolkev)  
+Alexa Orrico - [Github](https://github.com/kevapostol) / [Twitter](https://twitter.com/apostolkev)
+ / Bob Deprizio [Github](https://github.com/BD20171998)
 
 Second part of Airbnb: Joann Vuong
 ## License
-Public Domain. No copy write protection. 
+Public Domain. No copy write protection.

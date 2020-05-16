@@ -1,32 +1,11 @@
 $(function () {
+  const dict = {};
 
-/*
-let $kevin = $('div.amenities ul li input');
-*/
+  $('input:checkbox').click(function () {
+    if ($(this).is(':checked')) { dict[$(this).data('id')] = $(this).data('name'); } else if ($(this).is(':not(:checked)')) {
+      delete dict[$(this).data('id')];
+    }
 
-
-
-$('input:checkbox').click(function(){
-
-let list =[];
-
-if($(this).is(":checked")){
-alert("Checkbox is checked." );
-
- $.each($("input:checked"), function(){
-                list.push($(this).val());
-            });
-alert(list);
-}
-
-
-
-
-else if($(this).is(":not(:checked)")){
-alert("Checkbox is unchecked." );
-
-}
-
-});
-
+    $('.amenities h4').text(Object.values(dict).join(', '));
   });
+});

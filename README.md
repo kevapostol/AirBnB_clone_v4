@@ -160,8 +160,8 @@ Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
 ## Contirubtors V4
-Alexa Orrico - [Github](https://github.com/kevapostol) / [Twitter](https://twitter.com/apostolkev)
- / Bob Deprizio [Github](https://github.com/BD20171998)
+Kevin Apostol - [Github](https://github.com/kevapostol) / [Twitter](https://twitter.com/apostolkev)  
+Bob Deprizio [Github](https://github.com/BD20171998)
 
 Second part of Airbnb: Joann Vuong
 ## License
